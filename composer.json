@@ -1,0 +1,13 @@
+{
+    "name": "ezitis/docker-compose-laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ezitis",
+            "email": "git@ezitisitis.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
