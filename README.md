@@ -1,6 +1,6 @@
 # Laravel Docker-compose
 
-This repository contains docker-compose files which use [ezitisitis/laravel-docker](dockerhub_ezitis_laravel)
+This repository contains docker-compose files which use [ezitisitis/laravel](dockerhub_ezitis_laravel)
 
 [laravel_docker]: https://hub.docker.com/repository/docker/ezitisitis/laravel
 
