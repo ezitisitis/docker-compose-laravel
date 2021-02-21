@@ -1,5 +1,6 @@
 {
     "name": "ezitis/docker-compose-laravel",
+    "description": "Docker compose files which use ezitisitis/laravel",
     "type": "library",
     "license": "MIT",
     "authors": [
